@@ -1,4 +1,6 @@
 # Minimum Öklid Mesafesinin Hesaplanması
+
+```python
 import math
 
 def euclideanDistance(point1, point2):
@@ -17,3 +19,4 @@ min_distance = min(distances)
 
 print(distances)
 print(min_distance)
+```
